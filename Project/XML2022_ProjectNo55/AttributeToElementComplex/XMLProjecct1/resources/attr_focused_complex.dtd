@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT NAMM_ITEM (SupplierId|Items)*>
+        <!ATTLIST NAMM_ITEM
+                version CDATA #REQUIRED>
+        <!ELEMENT SupplierId (#PCDATA)>
+        <!ELEMENT Items (Item)*>
+        <!ELEMENT Item (Supplier|ItemDesc|ItemDescLong|RetailValue|UCValue|CountryOrigin|BrandName|Length|Width|Height|DimUOM|Weight|WeightUOM|BarCode|C|Kit|Serialized|AnnounceDate|AvailableDate|Warranty|Category|Images|ImageURL|ProductURL)*>
+        <!ELEMENT Supplier (#PCDATA)>
+        <!ATTLIST Supplier
+                ItemId CDATA #REQUIRED
+                Model CDATA #REQUIRED>
+        <!ELEMENT ItemDesc (#PCDATA)>
+        <!ELEMENT ItemDescLong (#PCDATA)>
+        <!ELEMENT RetailValue (#PCDATA)>
+        <!ELEMENT UCValue (#PCDATA)>
+        <!ELEMENT CountryOrigin (#PCDATA)>
+        <!ELEMENT BrandName (#PCDATA)>
+        <!ELEMENT Length (#PCDATA)>
+        <!ELEMENT Width (#PCDATA)>
+        <!ELEMENT Height (#PCDATA)>
+        <!ELEMENT DimUOM (#PCDATA)>
+        <!ELEMENT Weight (#PCDATA)>
+        <!ELEMENT WeightUOM (#PCDATA)>
+        <!ELEMENT BarCode (#PCDATA)>
+        <!ATTLIST BarCode
+                Desc CDATA #REQUIRED
+                Id CDATA #REQUIRED>
+        <!ELEMENT C (#PCDATA)>
+        <!ATTLIST C
+                DimUOM CDATA #REQUIRED
+                Height CDATA #REQUIRED
+                Length CDATA #REQUIRED
+                QtyPerUOM CDATA #REQUIRED
+                UOM CDATA #REQUIRED
+                Weight CDATA #REQUIRED
+                WeightUOM CDATA #REQUIRED
+                Width CDATA #REQUIRED>
+        <!ELEMENT Kit (#PCDATA)>
+        <!ELEMENT Serialized (#PCDATA)>
+        <!ELEMENT AnnounceDate (#PCDATA)>
+        <!ELEMENT AvailableDate (#PCDATA)>
+        <!ELEMENT Warranty (#PCDATA)>
+        <!ATTLIST Warranty
+                LabTerm CDATA #REQUIRED
+                LabUOM CDATA #REQUIRED
+                PartTerm CDATA #REQUIRED
+                PartUOM CDATA #REQUIRED>
+        <!ELEMENT Category (#PCDATA)>
+        <!ELEMENT Images (#PCDATA)>
+        <!ELEMENT ImageURL (#PCDATA)>
+        <!ELEMENT ProductURL (#PCDATA)>

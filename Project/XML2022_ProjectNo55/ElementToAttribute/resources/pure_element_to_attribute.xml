@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NAMM_ITEM version="2007.1">
+      
+  <SupplierId>0761294001004</SupplierId>
+      
+  <Items>
+    <Item>
+      <Supplier ItemId="FantomX6" Model="Fantom-X6"/>
+      <ItemDesc>Workstation Keyboard</ItemDesc>
+      <ItemDescLong>Powerhouse Workstation with an Ultra-Friendly Interface</ItemDescLong>
+      <RetailValue>2395</RetailValue>
+      <UCValue>1437</UCValue>
+      <CountryOrigin>China</CountryOrigin>
+      <BrandName>Roland</BrandName>
+      <Length>1050</Length>
+      <Width>358</Width>
+      <Height>125</Height>
+      <DimUOM>mm</DimUOM>
+      <Weight>12.5</Weight>
+      <WeightUOM>kg</WeightUOM>
+      <BarCode Desc="UPC" Id="761294084991"/>
+      <C DimUOM="In" Height="6" Length="43" QtyPerUOM="1" UOM="EA" Weight="13" WeightUOM="kg" Width="15"/>
+      <Kit>false</Kit>
+      <Serialized>true</Serialized>
+      <AnnounceDate>2006-01-15</AnnounceDate>
+      <AvailableDate>2006-02-24</AvailableDate>
+      <Warranty LabTerm="365" LabUOM="Day" PartTerm="90" PartUOM="Day"/>
+      <Category>Keyboard</Category>
+      <Images>FantomX6.jpg</Images>
+      <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+      <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=581</ProductURL>
+    </Item>
+    <Item>
+      <Supplier ItemId="SD1" Model="SD-1"/>
+      <ItemDesc>Super OverDrive</ItemDesc>
+      <ItemDescLong>Super OverDrive Pedal</ItemDescLong>
+      <RetailValue>97.5</RetailValue>
+      <UCValue>39.95</UCValue>
+      <CountryOrigin>China</CountryOrigin>
+      <BrandName>Boss</BrandName>
+      <Length>73</Length>
+      <Width>129</Width>
+      <Height>59</Height>
+      <DimUOM>mm</DimUOM>
+      <Weight>0.4</Weight>
+      <WeightUOM>kg</WeightUOM>
+      <BarCode Desc="UPC" Id="761294008508"/>
+      <C DimUOM="In" Height="2.5" Length="3" QtyPerUOM="1" UOM="EA" Weight="0.45" WeightUOM="kg" Width="5.25"/>
+      <IC BarcodeDesc="UPC" BarcodeId="20761294008508" DimUOM="In" Height="5" Length="6" QtyPerUOM="4" UOM="Inner Carton" Weight="4.25" WeightUOM="Lb" Width="5.25"/>
+      <MC BarcodeDesc="UPC" BarcodeId="40761294008508" DimUOM="In" Height="5" Length="18" QtyPerUOM="12" UOM="Master Carton" Weight="12.75" WeightUOM="Lb" Width="5.25"/>
+      <Kit>false</Kit>
+      <Serialized>false</Serialized>
+      <AnnounceDate>2003-07-15</AnnounceDate>
+      <AvailableDate>2003-07-15</AvailableDate>
+      <Warranty LabTerm="1825" LabUOM="Day" PartTerm="1825" PartUOM="Day"/>
+      <Category>Guitar Pedal</Category>
+      <Images>SD1.jpg</Images>
+      <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+      <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=133</ProductURL>
+    </Item>
+    <Item>
+      <Supplier ItemId="FantomXBook" Model="Fantom-X Book"/>
+      <ItemDesc>The Hidden Manual to Fantom X</ItemDesc>
+      <ItemDescLong>Discover all the tips and tricks to using your Fantom X Keyboard</ItemDescLong>
+      <RetailValue>19.95</RetailValue>
+      <UCValue>9.98</UCValue>
+      <CountryOrigin>US</CountryOrigin>
+      <BrandName>Roland</BrandName>
+      <Length>11</Length>
+      <Width>8</Width>
+      <Height>0.5</Height>
+      <DimUOM>In</DimUOM>
+      <Weight>6</Weight>
+      <WeightUOM>Oz</WeightUOM>
+      <BarCode Desc="UPC" Id="761294001233"/>
+      <C DimUOM="In" Height="0.5" Length="11" QtyPerUOM="1" UOM="EA" Weight="6" WeightUOM="Oz" Width="8"/>
+      <MC BarcodeDesc="UPC" BarcodeId="40761294001233" DimUOM="In" Height="5" Length="11" QtyPerUOM="10" UOM="Master Carton" Weight="3.75" WeightUOM="Lb" Width="8"/>
+      <Kit>false</Kit>
+      <Serialized>false</Serialized>
+      <AnnounceDate>2006-01-15</AnnounceDate>
+      <AvailableDate>2005-03-15</AvailableDate>
+      <Category>Book</Category>
+      <Images>FantomXBook.jpg</Images>
+      <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+      <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=989</ProductURL>
+      <ISBN>1098567432</ISBN>
+      <Publisher>Roland</Publisher>
+      <PageCount>225</PageCount>
+      <TOC/>
+      <Content/>
+    </Item>
+  </Items>
+  
+</NAMM_ITEM>

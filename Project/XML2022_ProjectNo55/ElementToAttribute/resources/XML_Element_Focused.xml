@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NAMM_ITEM SYSTEM "..\resources\element_focused.dtd">
+<NAMM_ITEM version="2007.1">
+    <SupplierId>0761294001004</SupplierId>
+    <Items>
+        <Item>
+            <SupplierItemId>FantomX6</SupplierItemId>
+            <SupplierModel>Fantom-X6</SupplierModel>
+            <ItemDesc>Workstation Keyboard</ItemDesc>
+            <ItemDescLong>Powerhouse Workstation with an Ultra-Friendly Interface</ItemDescLong>
+            <RetailValue>2395</RetailValue>
+            <UCValue>1437</UCValue>
+            <CountryOrigin>China</CountryOrigin>
+            <BrandName>Roland</BrandName>
+            <Length>1050</Length>
+            <Width>358</Width>
+            <Height>125</Height>
+            <DimUOM>mm</DimUOM>
+            <Weight>12.5</Weight>
+            <WeightUOM>kg</WeightUOM>
+            <BarCodeId>761294084991</BarCodeId>
+            <BarCodeDesc>UPC</BarCodeDesc>
+            <CLength>43</CLength>
+            <CWidth>15</CWidth>
+            <CHeight>6</CHeight>
+            <CWeight>13</CWeight>
+            <CDimUOM>In</CDimUOM>
+            <CWeightUOM>kg</CWeightUOM>
+            <CUOM>EA</CUOM>
+            <CQtyPerUOM>1</CQtyPerUOM>
+            <Kit>false</Kit>
+            <Serialized>true</Serialized>
+            <AnnounceDate>2006-01-15</AnnounceDate>
+            <AvailableDate>2006-02-24</AvailableDate>
+            <WarrantyPartTerm>90</WarrantyPartTerm>
+            <WarrantyPartUOM>Day</WarrantyPartUOM>
+            <WarrantyLabTerm>365</WarrantyLabTerm>
+            <WarrantyLabUOM>Day</WarrantyLabUOM>
+            <Category>Keyboard</Category>
+            <Images>FantomX6.jpg</Images>
+            <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+            <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=581</ProductURL>
+        </Item>
+        <Item>
+            <SupplierItemId>SD1</SupplierItemId>
+            <SupplierModel>SD-1</SupplierModel>
+            <ItemDesc>Super OverDrive</ItemDesc>
+            <ItemDescLong>Super OverDrive Pedal</ItemDescLong>
+            <RetailValue>97.5</RetailValue>
+            <UCValue>39.95</UCValue>
+            <CountryOrigin>China</CountryOrigin>
+            <BrandName>Boss</BrandName>
+            <Length>73</Length>
+            <Width>129</Width>
+            <Height>59</Height>
+            <DimUOM>mm</DimUOM>
+            <Weight>0.4</Weight>
+            <WeightUOM>kg</WeightUOM>
+            <BarCodeId>761294008508</BarCodeId>
+            <BarCodeDesc>UPC</BarCodeDesc>
+            <CLength>3</CLength>
+            <CWidth>5.25</CWidth>
+            <CHeight>2.5</CHeight>
+            <CWeight>0.45</CWeight>
+            <CDimUOM>In</CDimUOM>
+            <CWeightUOM>kg</CWeightUOM>
+            <CUOM>EA</CUOM>
+            <CQtyPerUOM>1</CQtyPerUOM>
+            <ICBarcodeId>20761294008508</ICBarcodeId>
+            <ICBarcodeDesc>UPC</ICBarcodeDesc>
+            <ICLength>6</ICLength>
+            <ICWidth>5.25</ICWidth>
+            <ICHeight>5</ICHeight>
+            <ICWeight>4.25</ICWeight>
+            <ICDimUOM>In</ICDimUOM>
+            <ICWeightUOM>Lb</ICWeightUOM>
+            <ICUOM>Inner Carton</ICUOM>
+            <ICQtyPerUOM>4</ICQtyPerUOM>
+            <MCBarcodeId>40761294008508</MCBarcodeId>
+            <MCBarcodeDesc>UPC</MCBarcodeDesc>
+            <MCLength>18</MCLength>
+            <MCWidth>5.25</MCWidth>
+            <MCHeight>5</MCHeight>
+            <MCWeight>12.75</MCWeight>
+            <MCDimUOM>In</MCDimUOM>
+            <MCWeightUOM>Lb</MCWeightUOM>
+            <MCUOM>Master Carton</MCUOM>
+            <MCQtyPerUOM>12</MCQtyPerUOM>
+            <Kit>false</Kit>
+            <Serialized>false</Serialized>
+            <AnnounceDate>2003-07-15</AnnounceDate>
+            <AvailableDate>2003-07-15</AvailableDate>
+            <WarrantyPartTerm>1825</WarrantyPartTerm>
+            <WarrantyPartUOM>Day</WarrantyPartUOM>
+            <WarrantyLabTerm>1825</WarrantyLabTerm>
+            <WarrantyLabUOM>Day</WarrantyLabUOM>
+            <Category>Guitar Pedal</Category>
+            <Images>SD1.jpg</Images>
+            <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+            <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=133</ProductURL>
+        </Item>
+        <Item>
+            <SupplierItemId>FantomXBook</SupplierItemId>
+            <SupplierModel>Fantom-X Book</SupplierModel>
+            <ItemDesc>The Hidden Manual to Fantom X</ItemDesc>
+            <ItemDescLong>Discover all the tips and tricks to using your Fantom X Keyboard</ItemDescLong>
+            <RetailValue>19.95</RetailValue>
+            <UCValue>9.98</UCValue>
+            <CountryOrigin>US</CountryOrigin>
+            <BrandName>Roland</BrandName>
+            <Length>11</Length>
+            <Width>8</Width>
+            <Height>0.5</Height>
+            <DimUOM>In</DimUOM>
+            <Weight>6</Weight>
+            <WeightUOM>Oz</WeightUOM>
+            <BarCodeId>761294001233</BarCodeId>
+            <BarCodeDesc>UPC</BarCodeDesc>
+            <CLength>11</CLength>
+            <CWidth>8</CWidth>
+            <CHeight>0.5</CHeight>
+            <CWeight>6</CWeight>
+            <CDimUOM>In</CDimUOM>
+            <CWeightUOM>Oz</CWeightUOM>
+            <CUOM>EA</CUOM>
+            <CQtyPerUOM>1</CQtyPerUOM>
+            <MCBarcodeId>40761294001233</MCBarcodeId>
+            <MCBarcodeDesc>UPC</MCBarcodeDesc>
+            <MCLength>11</MCLength>
+            <MCWidth>8</MCWidth>
+            <MCHeight>5</MCHeight>
+            <MCWeight>3.75</MCWeight>
+            <MCDimUOM>In</MCDimUOM>
+            <MCWeightUOM>Lb</MCWeightUOM>
+            <MCUOM>Master Carton</MCUOM>
+            <MCQtyPerUOM>10</MCQtyPerUOM>
+            <Kit>false</Kit>
+            <Serialized>false</Serialized>
+            <AnnounceDate>2006-01-15</AnnounceDate>
+            <AvailableDate>2005-03-15</AvailableDate>
+            <Category>Book</Category>
+            <Images>FantomXBook.jpg</Images>
+            <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+            <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=989</ProductURL>
+            <ISBN>1098567432</ISBN>
+            <Publisher>Roland</Publisher>
+            <PageCount>225</PageCount>
+            <TOC />
+            <Content />
+        </Item>
+    </Items>
+</NAMM_ITEM>

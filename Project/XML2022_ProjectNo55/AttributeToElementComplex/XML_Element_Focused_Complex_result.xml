@@ -1,0 +1,47 @@
+<NAMM_ITEM version="2007.1">
+    <SupplierId>0761294001004</SupplierId>
+    <Items>
+        <Item>
+            
+			<SupplierItemId>FantomX6</SupplierItemId>
+			<SupplierModel>Fantom-X6</SupplierModel>
+            <ItemDesc>Workstation Keyboard</ItemDesc>
+            <ItemDescLong>Powerhouse Workstation with an Ultra-Friendly Interface</ItemDescLong>
+            <RetailValue>2395</RetailValue>
+            <UCValue>1437</UCValue>
+            <CountryOrigin>China</CountryOrigin>
+            <BrandName>Roland</BrandName>
+            <Length>1050</Length>
+            <Width>358</Width>
+            <Height>125</Height>
+            <DimUOM>mm</DimUOM>
+            <Weight>12.5</Weight>
+            <WeightUOM>kg</WeightUOM>
+            
+			<BarCodeDesc>UPC</BarCodeDesc>
+			<BarCodeId>761294084991</BarCodeId>
+            
+			<CDimUOM>In</CDimUOM>
+			<CHeight>6</CHeight>
+			<CLength>43</CLength>
+			<CQtyPerUOM>1</CQtyPerUOM>
+			<CUOM>EA</CUOM>
+			<CWeight>13</CWeight>
+			<CWeightUOM>kg</CWeightUOM>
+			<CWidth>15</CWidth>
+            <Kit>false</Kit>
+            <Serialized>true</Serialized>
+            <AnnounceDate>2006-01-15</AnnounceDate>
+            <AvailableDate>2006-02-24</AvailableDate>
+            
+			<WarrantyLabTerm>365</WarrantyLabTerm>
+			<WarrantyLabUOM>Day</WarrantyLabUOM>
+			<WarrantyPartTerm>90</WarrantyPartTerm>
+			<WarrantyPartUOM>Day</WarrantyPartUOM>
+            <Category>Keyboard</Category>
+            <Images>FantomX6.jpg</Images>
+            <ImageURL>http://www.rolandus.com/press/images</ImageURL>
+            <ProductURL>http://www.rolandus.com/products/productdetails.aspx?ObjectId=581</ProductURL>
+        </Item>
+    </Items>
+</NAMM_ITEM>

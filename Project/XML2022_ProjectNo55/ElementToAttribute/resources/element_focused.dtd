@@ -1,0 +1,275 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT NAMM_ITEM (SupplierId,Items)>
+<!ATTLIST NAMM_ITEM
+  xmlns CDATA #FIXED ''
+  version CDATA #REQUIRED>
+
+<!ELEMENT SupplierId (#PCDATA)>
+<!ATTLIST SupplierId
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Items (Item)+>
+<!ATTLIST Items
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Item (SupplierItemId,SupplierModel,ItemDesc,ItemDescLong,
+                RetailValue,UCValue,CountryOrigin,BrandName,Length,
+                Width,Height,DimUOM,Weight,WeightUOM,BarCodeId,
+                BarCodeDesc,CLength,CWidth,CHeight,CWeight,CDimUOM,
+                CWeightUOM,CUOM,CQtyPerUOM,
+                (ICBarcodeId,ICBarcodeDesc,ICLength,ICWidth,ICHeight,
+                 ICWeight,ICDimUOM,ICWeightUOM,ICUOM,ICQtyPerUOM)?,
+                (MCBarcodeId,MCBarcodeDesc,MCLength,MCWidth,MCHeight,
+                 MCWeight,MCDimUOM,MCWeightUOM,MCUOM,MCQtyPerUOM)?,
+                Kit,Serialized,AnnounceDate,AvailableDate,
+                (WarrantyPartTerm,WarrantyPartUOM,WarrantyLabTerm,
+                 WarrantyLabUOM)?,
+                Category,Images,ImageURL,ProductURL,
+                (ISBN,Publisher,PageCount,TOC,Content)?)>
+<!ATTLIST Item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT SupplierItemId (#PCDATA)>
+<!ATTLIST SupplierItemId
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT SupplierModel (#PCDATA)>
+<!ATTLIST SupplierModel
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ItemDesc (#PCDATA)>
+<!ATTLIST ItemDesc
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ItemDescLong (#PCDATA)>
+<!ATTLIST ItemDescLong
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT RetailValue (#PCDATA)>
+<!ATTLIST RetailValue
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT UCValue (#PCDATA)>
+<!ATTLIST UCValue
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CountryOrigin (#PCDATA)>
+<!ATTLIST CountryOrigin
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT BrandName (#PCDATA)>
+<!ATTLIST BrandName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Length (#PCDATA)>
+<!ATTLIST Length
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Width (#PCDATA)>
+<!ATTLIST Width
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Height (#PCDATA)>
+<!ATTLIST Height
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT DimUOM (#PCDATA)>
+<!ATTLIST DimUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Weight (#PCDATA)>
+<!ATTLIST Weight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT WeightUOM (#PCDATA)>
+<!ATTLIST WeightUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT BarCodeId (#PCDATA)>
+<!ATTLIST BarCodeId
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT BarCodeDesc (#PCDATA)>
+<!ATTLIST BarCodeDesc
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CLength (#PCDATA)>
+<!ATTLIST CLength
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CWidth (#PCDATA)>
+<!ATTLIST CWidth
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CHeight (#PCDATA)>
+<!ATTLIST CHeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CWeight (#PCDATA)>
+<!ATTLIST CWeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CDimUOM (#PCDATA)>
+<!ATTLIST CDimUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CWeightUOM (#PCDATA)>
+<!ATTLIST CWeightUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CUOM (#PCDATA)>
+<!ATTLIST CUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CQtyPerUOM (#PCDATA)>
+<!ATTLIST CQtyPerUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICBarcodeId (#PCDATA)>
+<!ATTLIST ICBarcodeId
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICBarcodeDesc (#PCDATA)>
+<!ATTLIST ICBarcodeDesc
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICLength (#PCDATA)>
+<!ATTLIST ICLength
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICWidth (#PCDATA)>
+<!ATTLIST ICWidth
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICHeight (#PCDATA)>
+<!ATTLIST ICHeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICWeight (#PCDATA)>
+<!ATTLIST ICWeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICDimUOM (#PCDATA)>
+<!ATTLIST ICDimUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICWeightUOM (#PCDATA)>
+<!ATTLIST ICWeightUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICUOM (#PCDATA)>
+<!ATTLIST ICUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ICQtyPerUOM (#PCDATA)>
+<!ATTLIST ICQtyPerUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCBarcodeId (#PCDATA)>
+<!ATTLIST MCBarcodeId
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCBarcodeDesc (#PCDATA)>
+<!ATTLIST MCBarcodeDesc
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCLength (#PCDATA)>
+<!ATTLIST MCLength
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCWidth (#PCDATA)>
+<!ATTLIST MCWidth
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCHeight (#PCDATA)>
+<!ATTLIST MCHeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCWeight (#PCDATA)>
+<!ATTLIST MCWeight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCDimUOM (#PCDATA)>
+<!ATTLIST MCDimUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCWeightUOM (#PCDATA)>
+<!ATTLIST MCWeightUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCUOM (#PCDATA)>
+<!ATTLIST MCUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MCQtyPerUOM (#PCDATA)>
+<!ATTLIST MCQtyPerUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Kit (#PCDATA)>
+<!ATTLIST Kit
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Serialized (#PCDATA)>
+<!ATTLIST Serialized
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT AnnounceDate (#PCDATA)>
+<!ATTLIST AnnounceDate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT AvailableDate (#PCDATA)>
+<!ATTLIST AvailableDate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT WarrantyPartTerm (#PCDATA)>
+<!ATTLIST WarrantyPartTerm
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT WarrantyPartUOM (#PCDATA)>
+<!ATTLIST WarrantyPartUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT WarrantyLabTerm (#PCDATA)>
+<!ATTLIST WarrantyLabTerm
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT WarrantyLabUOM (#PCDATA)>
+<!ATTLIST WarrantyLabUOM
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Category (#PCDATA)>
+<!ATTLIST Category
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Images (#PCDATA)>
+<!ATTLIST Images
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ImageURL (#PCDATA)>
+<!ATTLIST ImageURL
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ProductURL (#PCDATA)>
+<!ATTLIST ProductURL
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ISBN (#PCDATA)>
+<!ATTLIST ISBN
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Publisher (#PCDATA)>
+<!ATTLIST Publisher
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PageCount (#PCDATA)>
+<!ATTLIST PageCount
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT TOC EMPTY>
+<!ATTLIST TOC
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Content EMPTY>
+<!ATTLIST Content
+  xmlns CDATA #FIXED ''>
